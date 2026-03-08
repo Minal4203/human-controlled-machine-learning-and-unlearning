@@ -88,18 +88,6 @@ Example features:
 
 ---
 
-## Project Structure
-
-```
-Human-Controlled-ML/
-│
-├── human_controlled_ml.ipynb
-├── human_controlled_ml.py
-├── README.md
-```
-
----
-
 ## Installation
 
 Install required libraries:
