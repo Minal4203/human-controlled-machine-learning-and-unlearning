@@ -176,11 +176,3 @@ B.Tech CSE (AI & ML)
 
 ---
 
-## License
-
-This project is intended for **educational and research purposes**.
-````
-
----
-
-If you want, I can also give you a **much stronger GitHub README (with badges, architecture diagram, and visuals)** so it looks like a **top AI research repository**.
